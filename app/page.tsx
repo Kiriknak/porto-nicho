@@ -56,6 +56,7 @@ const DATA = {
           <li>Mengoptimasi performa query melalui indexing dan pengelolaan relasi database yang tepat menggunakan Drizzle ORM.</li>
           <li>Mengelola deployment menggunakan Docker Compose untuk sinkronisasi lingkungan development dan production.</li>
           <li>Live Preview: <a href="https://demo.nich0.dev" target="_blank" rel="noreferrer" className="text-blue-400 hover:underline hover:text-blue-300 font-bold">gras.nich0.dev</a></li>
+          <li>Kredensial Masukkan apa saja, semisal demo password demo(hanya mock db)</li>
         </ul>
       </div>
 
